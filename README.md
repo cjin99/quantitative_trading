@@ -6,7 +6,7 @@ These scripts are usually written in Python3, use Numpy and Pandas.  These all u
 
 It is assumed some basic knowledge of finantial markets and basic Python programming skills. 
 
-#Test leverage: 
+# Test leverage: 
 
 Tests a simple strategy using leverage on the S&P 500. 
 
